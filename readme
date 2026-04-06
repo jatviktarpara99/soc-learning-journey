@@ -11,7 +11,7 @@ I have a Bachelor of Computer Applications (BCA) and I'm actively building hands
 
 My goal: Land a **SOC L1 Analyst** role where I can monitor, detect, and respond to real threats.
 
-- 🎓 MSc Computer science for business - Pfh private hochschule göttingen, Germany
+- 🎓 MSc Computer science for business (Cybersecurity focus) - Pfh private hochschule göttingen, Germany
 - 🎓 BCA — Bachelor of computer science - Veer narmad south gujarat university, India 
 - 📍 Based in: Göttingen, Germany
 - 🌐 TryHackMe: https://tryhackme.com/p/jatviktarpara
@@ -21,13 +21,15 @@ My goal: Land a **SOC L1 Analyst** role where I can monitor, detect, and respond
 
 ## 🛠️ Technical Skills
 
-SIEM - Splunk, Wazuh, ELK Stack|
-Network Analysis - Wireshark, tcpdump
-Threat Intel - VirusTotal, MITRE ATT&CK
-Email Analysis - MXToolbox, PhishTool
-OS - Windows, Linux (Ubuntu, Kali)
-Scripting - Python, Bash
-Frameworks - MITRE ATT&CK
+| Category | Tools & Technologies |
+|---|---|
+| **SIEM** | Wazuh |
+| **Network Analysis** | Wireshark |
+| **Threat Intel** | VirusTotal, MITRE ATT&CK |
+| **Email Analysis** | MXToolbox, PhishTool |
+| **OS** | Windows, Linux (Ubuntu, Kali) |
+| **Scripting** | Python (basics) |
+| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
 
 ---
 
