@@ -24,7 +24,7 @@ My goal: Land a **SOC L1 Analyst** role where I can monitor, detect, and respond
 | Category | Tools & Technologies |
 |---|---|
 | **SIEM** | Splunk |
-| **Network Analysis** | Wireshark, Network minnor |
+| **Network Analysis** | Wireshark, Network minnor, Nmap |
 | **Threat Intel** | VirusTotal, MITRE ATT&CK |
 | **Email Analysis** | MXToolbox, PhishTool |
 | **OS** | Windows, Linux (Ubuntu, Kali) |
@@ -36,7 +36,7 @@ My goal: Land a **SOC L1 Analyst** role where I can monitor, detect, and respond
 ## 📚 Learning Path & Certifications
 
 - ✅ TryHackMe - SOC L1 Learning Path _(~50% complete → in progress)_
-- ✅ Cisco Ethical Hacker _(~30% complete → in progress)_
+- ✅ Cisco Ethical Hacker _(~35% complete → in progress)_
 - 🔄 [Next Cert, e.g., CompTIA CySA+ ] - _Currently studying_
 - 🎓 MSc Computer science for business - _In progress_
 
